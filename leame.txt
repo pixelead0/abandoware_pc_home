@@ -1,0 +1,109 @@
+      	         ------------------------------------
+	           PC HOME PARA WINDOWS Versión 1.0
+ 	         ------------------------------------
+  	       (C) Copyright Shareware Corporation, 1998
+
+
+  COMO UTILIZAR ESTE DOCUMENTO
+==============================================================================================
+Si tiene problemas de visualizacion con el archivo LEAME.TXT en la pantallla de Bloc de Notas, seleccione todo el documento, y acontinuación, utilice el comando Ajuste de Línea en el menú Edición.
+==============================================================================================
+
+Este archivo contiene la siguiente información:
+
+	1. Agradecimiento
+	2. Instalación de PC HOME
+      	3. Localizacion del Sistema
+      	4. Archivos Necesarios
+      	5. Asistencia técnica
+
+
+      _________________
+      1. AGRADECIMIENTO
+	Gracias por elegir PC Home para Windows de Shareware. Nos sentimos orgullosos
+	de este producto y estamos seguros de que va a ayudarle a mantener su base de
+	datos en orden.
+
+	Recuerde que, aunque en general, el programa produce administraciones eficientes, no 		siempre ofrece una administracion perfecta. Si su administracion va a ser esencial,  		siempre ayudese con otros sistemas administradores o una persona capacitada.
+
+      _________________________
+      2. INSTALACION DE PC HOME
+
+	Para instalar PC Home, ejecute Instalar desde el FLOPPY. Siempre tenga a la mano su
+	manual de usuario.
+
+	Siga las intrucciones del programa de instalacion.
+
+      ___________________________
+      3. LOCALIZACION DEL SISTEMA
+
+	La localización predeterminada para el diccionario es el directorio C:\PC_HOME, que se encuentra en su directorio de instalación.
+      ______________________
+      4. ARCHIVOS NECESARIOS
+	PC HOME necesita los siguientes archivos, si sospecha la existencia de problemas en la 	ejecución del programa, asegúrese de que tiene instalados estos archivos.
+
+Archivo				     Directorio de instalación
+-------				     --------------------------
+PC_MENU.PRG				C:\PC_HOME\
+PROVEEDORES.DBF				C:\PC_HOME\PROVEEDO\
+PCP_ALTA.PRG				C:\PC_HOME\PROVEEDO\
+PCP_BAJA.PRG				C:\PC_HOME\PROVEEDO\
+PCP_CAMB.PRG				C:\PC_HOME\PROVEEDO\
+PCP_CONS.PRG				C:\PC_HOME\PROVEEDO\
+PCP_REPO.PRG				C:\PC_HOME\PROVEEDO\
+CLIENTES.DBF				C:\PC_HOME\CLIENTES\
+PCC_ALTA.PRG				C:\PC_HOME\CLIENTES\
+PCC_BAJA.PRG				C:\PC_HOME\CLIENTES\
+PCC_CAMB.PRG				C:\PC_HOME\CLIENTES\
+PCC_CONS.PRG				C:\PC_HOME\CLIENTES\
+PCC_REPO.PRG				C:\PC_HOME\CLIENTES\
+HARDWARE.DBF				C:\PC_HOME\HARDWARE\
+PCH_ALTA.PRG				C:\PC_HOME\HARDWARE\
+PCH_BAJA.PRG				C:\PC_HOME\HARDWARE\
+PCH_CAMB.PRG				C:\PC_HOME\HARDWARE\
+PCH_CONS.PRG				C:\PC_HOME\HARDWARE\
+PCH_REPO.PRG				C:\PC_HOME\HARDWARE\
+SOFTWARE.DBF				C:\PC_HOME\SOFTWARE\
+PCO_ALTA.PRG				C:\PC_HOME\SOFTWARE\
+PCO_BAJA.PRG				C:\PC_HOME\SOFTWARE\
+PCO_CAMB.PRG				C:\PC_HOME\SOFTWARE\
+PCO_CONS.PRG				C:\PC_HOME\SOFTWARE\
+PCO_REPO.PRG				C:\PC_HOME\SOFTWARE\
+PC'S.DBF				C:\PC_HOME\PC-S\
+PCM_ALTA.PRG				C:\PC_HOME\PC-S\
+PCM_BAJA.PRG				C:\PC_HOME\PC-S\
+PCM_CAMB.PRG				C:\PC_HOME\PC-S\
+PCM_CONS.PRG				C:\PC_HOME\PC-S\
+PCM_REPO.PRG				C:\PC_HOME\PC-S\
+EMPLEADOS.DBF				C:\PC_HOME\TRABAJA\
+PCE_ALTA.PRG				C:\PC_HOME\TRABAJA\
+PCE_BAJA.PRG				C:\PC_HOME\TRABAJA\
+PCE_CAMB.PRG				C:\PC_HOME\TRABAJA\
+PCE_CONS.PRG				C:\PC_HOME\TRABAJA\
+PCE_REPO.PRG				C:\PC_HOME\TRABAJA\
+============================================================
+TOTAL DE ARCHIVOS INSTALADOS:  47 ARCHIVOS
+
+      _____________________
+      5. Asistencia técnica
+
+	Asistencia técnica  disponible para usuarios registrados.
+
+		  Número abierto de asistencia técnica:
+		  Shareware Oficinas centrales México:
+
+			Tel (525) -----
+			Fax (525) -----
+			E-Mail  ----d@df1.telmex.net.mx
+				----@starmedia.com
+
+		Shareware ofrece servicios de instalacion y asistencia
+		a domicilio
+			  Mantenimiento de PC's
+			  Configuraciones
+			  Desarrollo de sistemas a la
+				medida de sus necesidades
+
+	 =================================================
+	|  Para más información, llame al (525) ------.  |
+	 =================================================
